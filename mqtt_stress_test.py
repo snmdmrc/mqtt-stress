@@ -3,7 +3,7 @@
 import os
 import time
 import urlparse as urlparse
-import configparser as ConfigParser
+import ConfigParser as ConfigParser
 import mqtt_publisher_thread as pub
 import mqtt_subscriber_thread as sub
 
