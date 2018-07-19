@@ -3,11 +3,11 @@
 import random
 import os
 import binascii
-import queue as Queue
+import Queue as Queue
 import threading
 import time
-import urllib.parse as urlparse
-import configparser as ConfigParser
+import urlparse as urlparse
+import ConfigParser as ConfigParser
 import paho.mqtt.client as mqtt
 
 global_count={}
