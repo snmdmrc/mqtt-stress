@@ -3,10 +3,10 @@
 import random
 import os
 import binascii
-import queue as Queue
+import Queue as Queue
 import threading
 import time
-import configparser as ConfigParser
+import ConfigParser as ConfigParser
 import paho.mqtt.client as mqtt
 
 
